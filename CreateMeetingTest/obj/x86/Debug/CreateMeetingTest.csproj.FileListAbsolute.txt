@@ -1,0 +1,8 @@
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\bin\Debug\CreateMeetingTest.exe
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\bin\Debug\CreateMeetingTest.pdb
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\obj\x86\Debug\CreateMeetingTest.Form1.resources
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\obj\x86\Debug\CreateMeetingTest.Properties.Resources.resources
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\obj\x86\Debug\CreateMeetingTest.csproj.GenerateResource.Cache
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\obj\x86\Debug\CreateMeetingTest.exe
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\obj\x86\Debug\CreateMeetingTest.pdb
+c:\users\alcazara\documents\visual studio 2010\Projects\CreateMeetingTest\CreateMeetingTest\obj\x86\Debug\CreateMeetingTest.csproj.ResolveComReference.cache
